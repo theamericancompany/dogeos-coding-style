@@ -62,6 +62,12 @@ has become for me pretty much mandatory.
      width="500"
      align="center"
   />
+  <br />
+  <sub>
+    <i>
+      An HIP-01 device.
+    </i>
+  </sub>
 </div>
 
 Also, my background is in Mathematics, not computer

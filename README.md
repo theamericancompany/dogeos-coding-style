@@ -49,16 +49,16 @@ from 2023 onwards, year on which I had suddenly
 found myself without an home because of a series
 of unfortunate events caused a group of very
 irresponsible people who have played or still play
-with people's live as if they were less than humans,
-I've been forced to write it on terminals whose
-size does not display well more than 60-80 columns,
+with other people's lives as if they were less
+than humans, I've been forced to write it on terminals
+whose size does not display well more than 60-80 columns,
 respecting this short yet quite rigid set of rules
 has become for me pretty much mandatory.
 
 <div
    align="center">
   <img
-     src="https://raw.githubusercontent.com/themartiancompany/dogeos-coding-style/cfbc2b6a31a80e651d66340de2237597f3b148fe/hip01.jpg"
+     src="https://raw.githubusercontent.com/themartiancompany/dogeos-coding-style/cfbc2b6a31a80e651d66340de2237597f3b148fe/media/hip01.jpg"
      width="500"
      align="center"
   />

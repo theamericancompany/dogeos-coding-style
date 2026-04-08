@@ -277,7 +277,7 @@ _play_movie_segment() {
     _segment_length="${3}" \
     _mediaclip_args=() \
     _mediaclip_opts=() \
-    _mktemp_opts=()    
+    _mktemp_opts=() \
     _movie_segment \
     _msg=()
   _mktemp_opts+=(

@@ -144,7 +144,7 @@ shell and its interpreter is virtually preinstalled
 literally any device on the market,
 it couldn't but become my language of election
 (even though actually it is not even the default
-shell in my terminals).
+shell program running in my terminals).
 
 I mean, for now, who knows about the future.
 

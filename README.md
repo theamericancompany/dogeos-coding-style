@@ -278,6 +278,8 @@ _play_movie_segment() {
     "from second '${_segment_start}'"
     "for '${_segment_length}' seconds."
   )
+  echo \
+    "${_msg[*]}"
   _movie_segment="$(
     mktemp \
       "${_mktemp_opts[@]}")"

@@ -128,7 +128,7 @@ commands' names and common action patterns, of
 which I've not read the full manual of and
 so of which I do probably not even know all
 of the syntax rules and on which I actually
-impose the strictest set of rules one may
+impose one of strictest set of rules one may
 think about:
 
 *GNU Bash*.

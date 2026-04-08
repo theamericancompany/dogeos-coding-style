@@ -166,7 +166,7 @@ one more thing.
 Fuck you Linus Torvalds and *git ur push
 smashed by a bunch of greedy masters*.
 
-### GNU Bash
+#### Basic coding style rules
 
 - Lines must not be longer than 60,
   max 80 columns.
@@ -363,6 +363,7 @@ _usage() {
     "${_exit_code}"
 }
 
+_global_variables
 _requirements
 
 while \

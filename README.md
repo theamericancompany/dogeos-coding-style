@@ -124,11 +124,12 @@ which everybody kinda knows but nobody
 really likes to write in, which is almost
 unreadable without a syntax highlighter,
 which follows the least common sense meanings for
-commands and actions, of which I've not read
-the full manual of and so of which I do probably
-not even know all of the syntax rules of and on
-which I actually impose the strictest set of
-rules one may think about:
+commands' names and common action patterns, of
+which I've not read the full manual of and
+so of which I do probably not even know all
+of the syntax rules of and on which I actually
+impose the strictest set of rules one may
+think about:
 
 *GNU Bash*.
 

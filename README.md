@@ -72,8 +72,8 @@ much mandatory.
   </sub>
 </div>
 
-Also, my background is in Mathematics, not computer
-science, so I've always found most computer code
+Also, my background is in Mathematics, not Computer
+Science, so I've always found most computer code
 to be relatively *unreadable*, given in Mathematics
 one does usually use letters, not whole words to
 refer to variables, let alone group of words joined

@@ -93,7 +93,7 @@ without which programming is more resembling to
 a torture rather than to a relatively playful activity
 like playing with construction toys.
 
-Because of the above, you can correctly imagine,
+Because of the above you can correctly imagine,
 in particular at the beginning of my programming
 journey, I've always been particularly fond of
 languages in which one can mix in the same

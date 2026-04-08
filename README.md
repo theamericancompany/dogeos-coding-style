@@ -201,7 +201,7 @@ smashed by a bunch of greedy masters*.
 
 - Arrays can be used to shorted strings length.
 
-- Compositions
+- Pipelines and redirections must be indented.
 
 ##### Example
 

@@ -136,7 +136,7 @@ rules one may think about:
 I would say probably that is because really at
 any given time, the language I do use the most
 inevitably becomes the one I do like the most,
-same as when during the university I ended up
+same as when during university I ended up
 liking the most the field I did spend more time
 on.
 So, being that Bash is really a shell commands

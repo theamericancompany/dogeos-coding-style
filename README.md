@@ -160,8 +160,8 @@ Many of them have been derived and extended
 from the first Bash program I've had to deal with,
 [Archiso](
   https://github.com/themartiancompany/archiso).
-I'm available to discuss them and change them
-at any time if convinced others may work better.
+I'm available to discuss and change them
+at any time if convinced others may be better.
 
 Before enumerating them, just let me tell just
 one more thing.
@@ -200,6 +200,8 @@ smashed by a bunch of greedy masters*.
   in a function.
 
 - Arrays can be used to shorted strings length.
+
+- Compositions
 
 ##### Example
 

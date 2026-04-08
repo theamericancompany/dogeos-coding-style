@@ -46,13 +46,13 @@ Let me premise I've never been really strict with
 this stuff; still, since DogeOS is an *operating
 system-like set of software* supposed to work on
 pretty much any kind of computing devices and that
-from 2023 onwards, year on which I had suddenly
+from 2023 onwards, year in which I had suddenly
 found myself without an home because of a series
 of unfortunate events caused a group of very
 irresponsible people who have played or still play
 with other people's lives as if they were less
 than humans, I've been forced to write it on terminals
-whose size does not display well more than 60-80 columns,
+whose size does not display well more than 60-80 columns
 and even less rows, so that respecting this short
 yet quite rigid set of rules has become for me pretty
 much mandatory.

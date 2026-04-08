@@ -112,8 +112,8 @@ I've been forced to deal with the various
 different rules imposed by each of them.
 
 So, surprisingly maybe, these days I would
-rather say my favourite programming language
-is actually one in which no strict positioning
+say my favourite programming language is actually
+one in which no strict positioning
 rule is enforced, the usage or not of special
 characters such as curly braces determines what
 to some people may be considered side effects,
